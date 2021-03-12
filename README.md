@@ -2,7 +2,8 @@
 
 ## Project setup
 ```
-npm install
+Run npm install to install dependencies
+Server Vue default to port 8080
 ```
 
 ### Compiles and hot-reloads for development
